@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Monish Krishnan (MonK) this side! Analysing data is like a treasure hunt. You experience valuable outcomes only when you do it right. In last three years as an analyst and then an academic researcher I have worked with diverse datasets from user-website interaction to [Ratemyprofessor]([url](https://www.ratemyprofessors.com/)) data. I have scraped, analysed, visualised and modelled data using different techniques. The one common outcome of all these experiences **right exploration** leads to the **right direction**. I am currently pursuing my post graduate in AI/ML from Plaksha University, enhancing my data and people skills.
+Monish Krishnan (MonK) this side! Analysing data is like a treasure hunt. You experience valuable outcomes only when you do it right. In last three years as an analyst and then an academic researcher I have worked with diverse datasets from user-website interaction to [Ratemyprofessor]([url](https://www.ratemyprofessors.com/)) data. I have scraped, analysed, visualised and modelled data using different techniques. The one common outcome from all these experiences - "**right exploration** leads to the **right direction**." I am currently pursuing my post graduate in AI/ML from Plaksha University, enhancing my data and people skills.
 
 <!--
 **monikrish2698/monikrish2698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
