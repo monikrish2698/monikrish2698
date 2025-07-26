@@ -3,5 +3,5 @@ It is an interesting time to be in the field of data. Organisations are constant
 
 ### Heya! Monish Krishnan here :)👋🌈
 
-
+I'm a Data Engineer specializing in building robust data pipelines that reliably deliver value to my downstream stakeholders. My core priority isn't just pipeline efficiency—it's ensuring stakeholders can innovate, derive insights, and are genuinely satisfied with the quality and usability of the data they receive.
 
